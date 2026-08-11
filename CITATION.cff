@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it using the metadata below."
+title: "Lovart Brand System Skill"
+type: software
+version: 0.2.0-alpha
+date-released: 2026-08-11
+authors:
+  - family-names: Mushich
+    given-names: Amir
+    website: "https://x.com/AmirMushich"
+license: CC-BY-4.0
+repository-code: "https://github.com/amirmushichge/lovart-brand-system-skill"
+url: "https://github.com/amirmushichge/lovart-brand-system-skill"
+abstract: "An agent-guided creative-direction workflow for turning one visual reference into a connected brand system with Lovart Agent."
+keywords:
+  - Lovart
+  - agent skill
+  - branding
+  - brand system
+  - creative direction
+  - Brand Lock
+  - generative AI
